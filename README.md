@@ -1,7 +1,12 @@
 # Temperature-Measurement-and-Communicating-System
-  MSP430 MCU Based  
-  College of Electrical & Information Engineering, Tongji University  
-  2017.7
+  MSP430 MCU Based Development
+  ```
+Capstone: Microcomputer Design and Development
+Chengyuan Deng  
+College of Electrical & Information Engineering
+Tongji University  
+2017.7
+  ```
 
   #### Please check project instructions for function details
   
